@@ -29,7 +29,7 @@ print(x)
 
 # Print the length of list x
 # YOUR CODE HERE
-print(f"length of list x: {len(x)}")
+print("length of list x: {}".format(len(x)))
 # Print all the values in x multiplied by 1000
 # YOUR CODE HERE
 for i,v in enumerate(x):
